@@ -1,6 +1,9 @@
 https://huecoapp.github.io/
 
 
+Id also be willing to switch to this template:
+https://bootstrapmade.com/demo/Squadfree/
+
 Template info:
 Thanks for downloading this template!
 
